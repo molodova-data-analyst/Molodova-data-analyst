@@ -1,6 +1,6 @@
 # Hi, I'm Kate 👋
 
-Data Analyst in progress | Brussels, Belgium 🇧🇪
+Data Analyst in progress | Antwerp, Belgium 🇧🇪
 
 ## About me
 I bring 10 years of business experience to data analytics — 
@@ -19,7 +19,7 @@ and building projects in Python, SQL, and Power BI.
 - Power BI / Excel
 
 ## 📫 Connect
-[LinkedIn](#https://www.linkedin.com/in/katarina-molodova-097258191/) | Antwerp, Belgium
+[LinkedIn](https://www.linkedin.com/in/katarina-molodova-097258191/) | Antwerp, Belgium
 
 <!--
 **molodova-data-analyst/Molodova-data-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
